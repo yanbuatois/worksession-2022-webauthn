@@ -1,6 +1,6 @@
 /*!
-* reveal.js 4.4.0
-* https://revealjs.com
+* reveal.js 1.0.0
+* https://yanbuatois.github.io/worksession-2022-webauthn
 * MIT licensed
 *
 * Copyright (C) 2011-2022 Hakim El Hattab, https://hakim.se
